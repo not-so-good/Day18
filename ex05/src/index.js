@@ -30,7 +30,6 @@ for (let col of shoppingList.entries()) {
   console.log(col);
 }
 
-
 //Only change code above this line
 module.exports = {shoppingList, arrKey, arrValue};
 
