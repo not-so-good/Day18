@@ -7,6 +7,5 @@ let uniqueArray = new Set(
 );
 
 console.log(uniqueArray);
-
 //Only change code above this line
 module.exports = { numberArray, uniqueArray};
