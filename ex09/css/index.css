@@ -1,0 +1,96 @@
+/*body {
+ background-image: url("..//img/gigi-logo.png");
+ background-color: #807b7b;
+ 
+}*/
+
+header {
+  background: #264252;
+  color: white;
+  height: 80px;
+  border-bottom: solid rgb(223, 77, 24);
+}
+
+.highlight {
+  color: rgb(223, 77, 24);
+}
+.current {
+  color: rgb(223, 77, 24);
+}
+
+#showcase {
+  color: white;
+  background-image: url("..//img/gigi-logo.png");
+  background-color: rgb(74, 83, 83);
+  text-align: center;
+  font-size: 20px;
+  font-family: Arial, Helvetica, sans-serif;
+  height: 400px;
+  filter: grayscale(100%);
+}
+
+#branding {
+  float: left;
+  margin-left: 60px;
+  margin-top: 15px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 10px;
+  text-align: left;
+}
+
+nav {
+  margin-right: 60px;
+  margin-top: 15px;
+}
+
+nav li {
+  display: inline;
+  float: right;
+  display: flex;
+  margin: 10px;
+}
+
+/*av {
+  background-color: inherit;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  padding: 5px;
+}
+nav li {
+  float: right;
+  margin-top: 15px;
+  color: white;
+  margin-right: 60px;
+
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+}*/
+
+#box {
+  display: inline-block;
+}
+
+#newsletter {
+  background: #264252;
+  color: white;
+  height: 80px;
+}
+
+
+form {
+  float: right;
+  margin-right: 60px;
+  margin-bottom: 20px;
+}
+
+footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: rgb(223, 77, 24);
+  color: white;
+  text-align: center;
+}
